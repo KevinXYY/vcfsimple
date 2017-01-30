@@ -3,4 +3,7 @@ lify vcf files for downstream annotations
 NOTE:
 
 Right now at initial stage!
-Todo
+Todo:
+1. 
+2. 
+3. 
